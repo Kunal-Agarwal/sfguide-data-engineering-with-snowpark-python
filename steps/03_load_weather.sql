@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------
 Hands-On Lab: Data Engineering with Snowpark
-Script:       03_load_weather.sql
+Script:       03_load_weather.sqlsnow procedure execute -p "daily_city_metrics_update_sp()"
 Author:       Jeremiah Hansen
 Last Updated: 1/9/2023
 -----------------------------------------------------------------------------*/
